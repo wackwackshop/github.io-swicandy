@@ -1,0 +1,1 @@
+# .github.io-swicandy-app-ads.txt
